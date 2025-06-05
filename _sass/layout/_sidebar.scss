@@ -83,7 +83,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 6px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -235,7 +235,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
-    border-color: #fff transparent;
+    border-color: #32aaff transparent;
     z-index: 1;
 
     @include breakpoint($large) {
